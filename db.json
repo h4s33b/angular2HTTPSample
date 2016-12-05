@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "title": "json-server2",
+      "author": "typicode",
+      "id": "1"
+    },
+    {
+      "title": "json-server2",
+      "author": "typicode",
+      "id": "B1JGBxm7l"
+    },
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "id": "ryv7al77x"
+    },
+    {
+      "title": "json-2server",
+      "author": "typicode",
+      "id": "Sy5wTlmQg"
+    },
+    {
+      "title": "json-2server",
+      "author": "typicode",
+      "id": "HJ8zRgmQl"
+    },
+    {
+      "title": "json-2server",
+      "author": "typicode",
+      "id": "SkGyUZXmx"
+    },
+    {
+      "title": "testing",
+      "author": "testinggggggggggggggggg",
+      "id": "B1I3qZ7Xx"
+    },
+    {
+      "title": "testing123",
+      "author": "testinggggggggggggggggg",
+      "id": "rJFpcbQQl"
+    },
+    {
+      "title": "Testinggggg",
+      "author": "testingggg",
+      "id": "r1GiibmQx"
+    },
+    {
+      "title": "fdgdg",
+      "author": "dfgdfgdfg",
+      "id": "rysL3bXmx"
+    }
+  ]
+}
